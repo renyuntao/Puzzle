@@ -1,5 +1,6 @@
 # Description
-Given an array “arr[0..n-1]” of integers, calculate sum of “arr[i] & arr[j]” for all the pairs in the given where i < j. Here & is bitwise AND operator. Expected time complexity is O(n)        
+Given an array “arr[0..n-1]” of integers, calculate sum of “arr[i] & arr[j]” for all the pairs in the given where i < j. Here & is bitwise AND operator. Expected time complexity is O(n).        
+**Example:**        
 
 > Input:  arr[] = {5, 10, 15}
 Output: 15
